@@ -21,5 +21,5 @@ This project simulates a basic traffic light system using the 8051 microcontroll
 ## Files:
   → Embedded C code
   → Circuit diagram from Proteus  
-  → Proteus project file
+  
 
