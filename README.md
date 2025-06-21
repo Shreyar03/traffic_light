@@ -1,4 +1,4 @@
-# Traffic Light Controller using 8051 (Keil + Proteus)
+# Basic Traffic Light Controller using 8051 (Keil + Proteus)
 
 ## Description:
 This project simulates a basic traffic light system using the 8051 microcontroller. The code is written in Embedded C using Keil, and the simulation is done in Proteus.
